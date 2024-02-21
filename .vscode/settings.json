@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "SampleApp/SampleApp.sln",
+    "files.exclude": {
+        "readme.md**": true
+    }
+}
